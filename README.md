@@ -6,7 +6,7 @@ The data set: [Predicting Heart Disease Using Clinical Variables](https://www.ka
 In brief, it's a 270-Patient Dataset with 13 independent Variables by [Robert Hoyt MD](https://data.world/rhoyt)
 
 ## Dataset and the Variable
-This dataset provides **13 independent attributes**, the following description is modified from the [Column part of the dataset](https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var/data)
+This dataset provides **13 independent attributes**, the following description is modified from the [Column part](https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var/data)
 and [University of California Irvine data repository ](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 | Variable      | Type of the Variable | Categorical detail  | Description |
 | :---   | :---   | :---    | :---   |
@@ -24,6 +24,15 @@ and [University of California Irvine data repository ](https://archive.ics.uci.e
 | Number of vessels fluro  |  Numeric | N/A |The number of major vessels (0-3) colored in fluoroscopy images. |
 | Thallium  | Categorical |3 = normal; 6 = fixed defect; 7 = reversable defect|The Thallium Stress test findings. |
 | Heart Disease	| Categorical |0: < 50% diameter narrowing; 1: > 50% diameter narrowing|Diagnosis of heart disease (based on angiographic disease status) |
+
+## Requirements
+In this project, following libraries are used:
+- Jupyter Notebook
+- Matplotlib
+- Numpy
+- Pandas
+- Scikit-learn
+- Seaborn
 
 ## License
 This project under an open-source MIT license. The data set belongs to the owner [Robert Hoyt MD](https://data.world/rhoyt)
