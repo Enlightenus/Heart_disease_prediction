@@ -5,6 +5,11 @@ This project uses data from the Kaggle, a popular data science web-based platfor
 The data set: [Predicting Heart Disease Using Clinical Variables](https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var)
 In brief, it's a 270-Patient Dataset with 13 independent Variables by [Robert Hoyt MD](https://data.world/rhoyt)
 
+## Inspiration
+With biology background. I am interested in how machine learning can be applied into this field.
+Here, we use the clinical symptoms (mostly non-invasive) as features to build a model for heart disease diagnosis.
+This can be helpful to save time and/or avoid some expensive test (e.g. CT scan)
+
 ## Dataset and the Variable
 This dataset provides **13 independent attributes**, the following description is modified from the [Column part](https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var/data)
 and [University of California Irvine data repository ](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
