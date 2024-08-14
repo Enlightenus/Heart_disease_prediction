@@ -1,9 +1,9 @@
 # Data Science Project: Heart Disease Prediction
 
 ## Introduction
-This project uses data from the Kaggle, a popular data science web-based platform.
-The data set: [Predicting Heart Disease Using Clinical Variables](https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var)
-In brief, it's a 270-Patient Dataset with 13 independent Variables by [Robert Hoyt MD](https://data.world/rhoyt)
+This project uses data from the Kaggle, a popular data science web-based platform.    
+The data set: [Predicting Heart Disease Using Clinical Variables](https://www.kaggle.com/datasets/thedevastator/predicting-heart-disease-risk-using-clinical-var)    
+In brief, it's a 270-Patient Dataset with 13 independent Variables by [Robert Hoyt MD](https://data.world/rhoyt)    
 
 ## Inspiration
 With biology background. I am interested in how machine learning can be applied into this field.
